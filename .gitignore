@@ -1,0 +1,11 @@
+*.bak
+
+# python stuff
+__pycache__/
+*.py[cod]
+*.egg-info
+*.so
+build/
+dist/
+
+.mypy_cache

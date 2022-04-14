@@ -1,0 +1,4 @@
+genutility>=0.0.83
+networkx
+numpy>1.16.0
+scipy
